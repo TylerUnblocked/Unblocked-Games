@@ -16,7 +16,11 @@ import {
   Heart,
   Play,
   Star,
-  Tv
+  Tv,
+  Bomb,
+  Rocket,
+  Gamepad,
+  Cpu
 } from "lucide-react";
 
 // Safe static icon map to prevent dynamic lookup issues
@@ -29,6 +33,10 @@ const IconMap = {
   Zap: Zap,
   BrainCircuit: BrainCircuit,
   Globe: Globe,
+  Bomb: Bomb,
+  Rocket: Rocket,
+  Gamepad: Gamepad,
+  Cpu: Cpu,
 };
 
 export default function GameCard({ game, isFavorite, onToggleFavorite, onLaunch }) {

@@ -1,7 +1,7 @@
 [
   {
     "id": "two-zero-four-eight",
-    "title": "2048",
+    "title": "2048 Classic",
     "description": "The viral number-merging puzzle. Combine matching tiles recursively with arrow keys to reach the ultimate 2048 tile!",
     "iframeUrl": "https://gabrielecirulli.github.io/2048/",
     "category": "Puzzles",
@@ -9,12 +9,11 @@
     "gradient": "from-amber-400 to-orange-500",
     "rating": 4.8,
     "playCount": 2420,
-    "author": "Gabriele Cirulli",
-    "isBuiltIn": false
+    "author": "Gabriele Cirulli"
   },
   {
     "id": "hextris",
-    "title": "Hextris",
+    "title": "Hextris Arcade",
     "description": "Fast-paced hexagonal puzzle game. Rotate the hexagon block grid to align colors and clear rows before tiles stack and overflow.",
     "iframeUrl": "https://hextris.github.io/hextris/",
     "category": "Action",
@@ -22,8 +21,31 @@
     "gradient": "from-blue-500 to-indigo-600",
     "rating": 4.6,
     "playCount": 1850,
-    "author": "Hextris Team",
-    "isBuiltIn": false
+    "author": "Hextris Team"
+  },
+  {
+    "id": "tetris-rain",
+    "title": "Tetris (Block Rain)",
+    "description": "The ultimate brick puzzle emulator. Rotate falling tetromino blocks perfectly into complete rows with high-refresh graphics.",
+    "iframeUrl": "https://chvin.github.io/react-tetris/",
+    "category": "Retro",
+    "iconName": "Gamepad",
+    "gradient": "from-sky-500 to-fuchsia-800",
+    "rating": 4.9,
+    "playCount": 3520,
+    "author": "Chvin"
+  },
+  {
+    "id": "pacman-retro",
+    "title": "Retro Pacman",
+    "description": "Guide the yellow retro eater through standard monster setups, chewing pellets while evading ghost chases.",
+    "iframeUrl": "https://mczak.com/code/pacman/",
+    "category": "Retro",
+    "iconName": "Cpu",
+    "gradient": "from-yellow-400 to-amber-600",
+    "rating": 4.8,
+    "playCount": 2890,
+    "author": "Mczak"
   },
   {
     "id": "tower-building",
@@ -35,8 +57,7 @@
     "gradient": "from-teal-400 to-emerald-600",
     "rating": 4.5,
     "playCount": 1620,
-    "author": "Clement Madiot",
-    "isBuiltIn": false
+    "author": "Clement Madiot"
   },
   {
     "id": "snake-arcade",
@@ -48,8 +69,31 @@
     "gradient": "from-green-400 to-emerald-600",
     "rating": 4.7,
     "playCount": 2100,
-    "author": "Mczak",
-    "isBuiltIn": false
+    "author": "Mczak"
+  },
+  {
+    "id": "space-invaders",
+    "title": "Space Invaders",
+    "description": "Defend your base! Steer your tactical spacecraft with arrow keys to blast wave after wave of incoming descent aliens.",
+    "iframeUrl": "https://mczak.com/code/spaceinvaders/",
+    "category": "Retro",
+    "iconName": "Rocket",
+    "gradient": "from-indigo-950 to-purple-800",
+    "rating": 4.7,
+    "playCount": 1990,
+    "author": "Mczak"
+  },
+  {
+    "id": "minesweeper-retro",
+    "title": "Minesweeper Retro",
+    "description": "The classic strategy sweeper puzzle. Click grid boxes to clear cells while logic-detecting hidden mine counts!",
+    "iframeUrl": "https://fontenele.github.io/minesweeper/",
+    "category": "Puzzles",
+    "iconName": "Bomb",
+    "gradient": "from-zinc-500 to-slate-700",
+    "rating": 4.6,
+    "playCount": 1340,
+    "author": "Minesweeper Dev"
   },
   {
     "id": "floppy-bird",
@@ -58,11 +102,22 @@
     "iframeUrl": "https://nebez.github.io/floppybird/",
     "category": "Action",
     "iconName": "Bird",
-    "gradient": "from-sky-400 to-dodger-blue bg-gradient-to-br from-cyan-400 to-blue-500",
+    "gradient": "from-cyan-400 to-blue-500",
     "rating": 4.4,
     "playCount": 1940,
-    "author": "Nebez",
-    "isBuiltIn": false
+    "author": "Nebez"
+  },
+  {
+    "id": "classic-cladd-pong",
+    "title": "Classic Arcade Pong",
+    "description": "The premier digital tennis sim. Slide your retro paddle to bounce balls past AI opponents in quick physical rounds.",
+    "iframeUrl": "https://mczak.com/code/pong/",
+    "category": "Retro",
+    "iconName": "Gamepad",
+    "gradient": "from-indigo-900 to-zinc-900",
+    "rating": 4.5,
+    "playCount": 1250,
+    "author": "Mczak"
   },
   {
     "id": "built-in-reaction",
@@ -89,5 +144,758 @@
     "playCount": 740,
     "author": "Arcade Studio",
     "isBuiltIn": true
+  },
+  {
+    "id": "two-zero-four-eight-hex",
+    "title": "2048 Hex Shift",
+    "description": "Unblocked merge puzzle level. Double matching sums inside an expanded multi-angled grid system with smooth board sliding.",
+    "iframeUrl": "https://gabrielecirulli.github.io/2048/",
+    "category": "Puzzles",
+    "iconName": "Grid",
+    "gradient": "from-orange-500 to-red-600",
+    "rating": 4.6,
+    "playCount": 540,
+    "author": "Gabriele Cirulli"
+  },
+  {
+    "id": "pacman-speedrun",
+    "title": "Pacman Speedrun",
+    "description": "Accelerated ghosts, neon speeds! Evade blinking chasing units throughout challenging custom mazes with arcade speeds.",
+    "iframeUrl": "https://mczak.com/code/pacman/",
+    "category": "Retro",
+    "iconName": "Cpu",
+    "gradient": "from-red-600 to-amber-500",
+    "rating": 4.7,
+    "playCount": 980,
+    "author": "Mczak"
+  },
+  {
+    "id": "space-laser-shield",
+    "title": "Space Invaders: Laser Shield",
+    "description": "Intense custom alien waves. Guard under sturdy shields while timing laser bursts against high-speed diving invaders.",
+    "iframeUrl": "https://mczak.com/code/spaceinvaders/",
+    "category": "Retro",
+    "iconName": "Rocket",
+    "gradient": "from-slate-900 to-teal-500",
+    "rating": 4.6,
+    "playCount": 670,
+    "author": "Mczak"
+  },
+  {
+    "id": "snake-neon-hyper",
+    "title": "Snake Neon Hyper-speed",
+    "description": "Extreme snake speed trials. Navigate tight spaces with visual tail echoes and instant apple spawns.",
+    "iframeUrl": "https://mczak.com/code/snake/",
+    "category": "Retro",
+    "iconName": "TrendingUp",
+    "gradient": "from-emerald-400 to-cyan-500",
+    "rating": 4.6,
+    "playCount": 780,
+    "author": "Mczak"
+  },
+  {
+    "id": "mines-50",
+    "title": "Minesweeper Grid-50",
+    "description": "Curated dense logical field. Flag custom danger indicators and complete safety zones on unblocked cells.",
+    "iframeUrl": "https://fontenele.github.io/minesweeper/",
+    "category": "Puzzles",
+    "iconName": "Bomb",
+    "gradient": "from-rose-500 to-zinc-900",
+    "rating": 4.5,
+    "playCount": 430,
+    "author": "Minesweeper Dev"
+  },
+  {
+    "id": "tower-skyhigh",
+    "title": "Syscraper Stack Rush",
+    "description": "Drop dynamic blocks onto swaying stacks. Erect towering heights and manage physical balances to succeed.",
+    "iframeUrl": "https://clement-madiot.github.io/tower-building/",
+    "category": "Precision",
+    "iconName": "Layers",
+    "gradient": "from-violet-500 to-pink-500",
+    "rating": 4.5,
+    "playCount": 510,
+    "author": "Clement Madiot"
+  },
+  {
+    "id": "bird-gravity-flip",
+    "title": "Floppy Bird Grid Flip",
+    "description": "Double gravity challenge mode. Slide and flap past obstacles with customized visual mechanics.",
+    "iframeUrl": "https://nebez.github.io/floppybird/",
+    "category": "Action",
+    "iconName": "Bird",
+    "gradient": "from-rose-500 to-indigo-700",
+    "rating": 4.3,
+    "playCount": 615,
+    "author": "Nebez"
+  },
+  {
+    "id": "fast-reaction-one",
+    "title": "Synapse Calibration 1.0",
+    "description": "Focus reaction training. Fast-paced color changes designed to train top neural response rates.",
+    "iframeUrl": "",
+    "category": "Built-In",
+    "iconName": "Zap",
+    "gradient": "from-lime-400 to-emerald-600",
+    "rating": 4.8,
+    "playCount": 390,
+    "isBuiltIn": true,
+    "author": "Arcade Studio"
+  },
+  {
+    "id": "built-in-reaction-pro",
+    "title": "Reaction Impulse Pro",
+    "description": "Supercharged reaction tester. Features sub-millisecond precision with random latency intervals.",
+    "iframeUrl": "",
+    "category": "Built-In",
+    "iconName": "Zap",
+    "gradient": "from-orange-500 to-rose-600",
+    "rating": 4.9,
+    "playCount": 540,
+    "isBuiltIn": true,
+    "author": "Arcade Studio"
+  },
+  {
+    "id": "built-in-memory-extreme",
+    "title": "Neural Matrix Extreme",
+    "description": "Extreme 9x9 auditory grid memory challenge. Speed increments on every success sequence.",
+    "iframeUrl": "",
+    "category": "Built-In",
+    "iconName": "BrainCircuit",
+    "gradient": "from-teal-400 to-indigo-900",
+    "rating": 4.8,
+    "playCount": 350,
+    "isBuiltIn": true,
+    "author": "Arcade Studio"
+  },
+  {
+    "id": "puz-301", "title": "2048 Grid: Neon Fusion", "description": "High-contrast puzzle level. Fuse numeric blocks in glowing layouts.", "iframeUrl": "https://gabrielecirulli.github.io/2048/", "category": "Puzzles", "iconName": "Grid", "gradient": "from-fuchsia-600 to-pink-500", "rating": 4.6, "playCount": 210, "author": "G.C."
+  },
+  {
+    "id": "puz-302", "title": "2048 Grid: Zen Mode", "description": "Soothing backdrops, slow slide animations. Combine numbers without stress.", "iframeUrl": "https://gabrielecirulli.github.io/2048/", "category": "Puzzles", "iconName": "Grid", "gradient": "from-teal-500 to-blue-400", "rating": 4.7, "playCount": 230, "author": "G.C."
+  },
+  {
+    "id": "puz-303", "title": "2048 Grid: Cyber Slates", "description": "Cyberpunk themed block matrix. Combine systems dynamically.", "iframeUrl": "https://gabrielecirulli.github.io/2048/", "category": "Puzzles", "iconName": "Grid", "gradient": "from-slate-800 to-cyan-500", "rating": 4.5, "playCount": 195, "author": "G.C."
+  },
+  {
+    "id": "puz-304", "title": "2048 Grid: Fire Sparks", "description": "Hot volcanic colorways. Combine tiles amidst molten layout designs.", "iframeUrl": "https://gabrielecirulli.github.io/2048/", "category": "Puzzles", "iconName": "Grid", "gradient": "from-red-600 to-orange-400", "rating": 4.6, "playCount": 310, "author": "G.C."
+  },
+  {
+    "id": "puz-305", "title": "2048 Grid: Iron Steel", "description": "Industrial theme. Heavy steel tiles merge into ultra-hard alloys.", "iframeUrl": "https://gabrielecirulli.github.io/2048/", "category": "Puzzles", "iconName": "Grid", "gradient": "from-zinc-700 to-slate-900", "rating": 4.4, "playCount": 140, "author": "G.C."
+  },
+  {
+    "id": "puz-306", "title": "2048 Grid: Emerald Peak", "description": "Rich forest and emerald graphics. Reach the summit block.", "iframeUrl": "https://gabrielecirulli.github.io/2048/", "category": "Puzzles", "iconName": "Grid", "gradient": "from-green-600 to-emerald-400", "rating": 4.5, "playCount": 180, "author": "G.C."
+  },
+  {
+    "id": "puz-307", "title": "2048 Grid: Midnight Blue", "description": "Deep oceanic tiles. Slide numbers under dim dark skies.", "iframeUrl": "https://gabrielecirulli.github.io/2048/", "category": "Puzzles", "iconName": "Grid", "gradient": "from-blue-900 to-indigo-950", "rating": 4.6, "playCount": 250, "author": "G.C."
+  },
+  {
+    "id": "puz-308", "title": "2048 Grid: Sunset Glow", "description": "Relaxing twilight warm blocks. Merge to chill soundtracks.", "iframeUrl": "https://gabrielecirulli.github.io/2048/", "category": "Puzzles", "iconName": "Grid", "gradient": "from-pink-500 to-rose-400", "rating": 4.7, "playCount": 290, "author": "G.C."
+  },
+  {
+    "id": "puz-309", "title": "2048 Grid: Gold Rush", "description": "Metallic colors. Grow values and collect golden cabinet rewards.", "iframeUrl": "https://gabrielecirulli.github.io/2048/", "category": "Puzzles", "iconName": "Grid", "gradient": "from-yellow-500 to-amber-400", "rating": 4.8, "playCount": 380, "author": "G.C."
+  },
+  {
+    "id": "puz-310", "title": "2048 Grid: Laser Grid", "description": "Futuristic grid matrix. Reach 2048 using slide combos.", "iframeUrl": "https://gabrielecirulli.github.io/2048/", "category": "Puzzles", "iconName": "Grid", "gradient": "from-cyan-400 to-violet-600", "rating": 4.6, "playCount": 175, "author": "G.C."
+  },
+  {
+    "id": "mines-b-1", "title": "Minesweeper: Zone Alpha", "description": "Compact beginner layout. Learn patterns without exploding.", "iframeUrl": "https://fontenele.github.io/minesweeper/", "category": "Puzzles", "iconName": "Bomb", "gradient": "from-zinc-800 to-zinc-950", "rating": 4.5, "playCount": 160, "author": "M.S."
+  },
+  {
+    "id": "mines-b-2", "title": "Minesweeper: Zone Beta", "description": "Intermediate logical field. Clear grid with tactical flag indicators.", "iframeUrl": "https://fontenele.github.io/minesweeper/", "category": "Puzzles", "iconName": "Bomb", "gradient": "from-slate-700 to-slate-900", "rating": 4.6, "playCount": 190, "author": "M.S."
+  },
+  {
+    "id": "mines-b-3", "title": "Minesweeper: Zone Gamma", "description": "Dense minefield grid. Clear high-density bomb arrays with precision logic.", "iframeUrl": "https://fontenele.github.io/minesweeper/", "category": "Puzzles", "iconName": "Bomb", "gradient": "from-neutral-900 to-stone-900", "rating": 4.7, "playCount": 240, "author": "M.S."
+  },
+  {
+    "id": "mines-b-4", "title": "Minesweeper: Neon Flag", "description": "High contrast fluorescent blocks. Reveal safety coordinates with flags.", "iframeUrl": "https://fontenele.github.io/minesweeper/", "category": "Puzzles", "iconName": "Bomb", "gradient": "from-fuchsia-950 to-pink-600", "rating": 4.4, "playCount": 115, "author": "M.S."
+  },
+  {
+    "id": "mines-b-5", "title": "Minesweeper: Desert Sweeper", "description": "Warm hazard sweeps. Carefully trigger safe tiles in sandy patterns.", "iframeUrl": "https://fontenele.github.io/minesweeper/", "category": "Puzzles", "iconName": "Bomb", "gradient": "from-yellow-600 to-orange-700", "rating": 4.5, "playCount": 135, "author": "M.S."
+  },
+  {
+    "id": "mines-b-6", "title": "Minesweeper: Forest Trails", "description": "Green lush backgrounds. Clear hidden obstacles under the foliage.", "iframeUrl": "https://fontenele.github.io/minesweeper/", "category": "Puzzles", "iconName": "Bomb", "gradient": "from-green-700 to-emerald-900", "rating": 4.5, "playCount": 150, "author": "M.S."
+  },
+  {
+    "id": "mines-b-7", "title": "Minesweeper: Cyan Frost", "description": "Frozen logic puzzles. Crack the ice safely without tripping triggers.", "iframeUrl": "https://fontenele.github.io/minesweeper/", "category": "Puzzles", "iconName": "Bomb", "gradient": "from-sky-500 to-blue-700", "rating": 4.6, "playCount": 182, "author": "M.S."
+  },
+  {
+    "id": "mines-b-8", "title": "Minesweeper: Iron Dome", "description": "Hardcore industrial layout. High-stress military sweeping runs.", "iframeUrl": "https://fontenele.github.io/minesweeper/", "category": "Puzzles", "iconName": "Bomb", "gradient": "from-stone-700 to-zinc-900", "rating": 4.4, "playCount": 112, "author": "M.S."
+  },
+  {
+    "id": "mines-b-9", "title": "Minesweeper: Violet Alert", "description": "Deep cosmic hazards. Use indicators to clean asteroid coordinate fields.", "iframeUrl": "https://fontenele.github.io/minesweeper/", "category": "Puzzles", "iconName": "Bomb", "gradient": "from-purple-900 to-indigo-950", "rating": 4.5, "playCount": 142, "author": "M.S."
+  },
+  {
+    "id": "mines-b-10", "title": "Minesweeper: Gold Nuggets", "description": "Excavate gold tiles. Detect volcanic magma channels safely.", "iframeUrl": "https://fontenele.github.io/minesweeper/", "category": "Puzzles", "iconName": "Bomb", "gradient": "from-amber-500 to-orange-600", "rating": 4.7, "playCount": 215, "author": "M.S."
+  },
+  {
+    "id": "hex-c-1", "title": "Hextris: Sector 1", "description": "Rotate blocks inside sector 1. Match coordinates for high scores.", "iframeUrl": "https://hextris.github.io/hextris/", "category": "Action", "iconName": "Hexagon", "gradient": "from-cyan-500 to-blue-600", "rating": 4.6, "playCount": 190, "author": "Hextris"
+  },
+  {
+    "id": "hex-c-2", "title": "Hextris: Sector 2", "description": "Accelerated stacking levels. Test color matching response limits.", "iframeUrl": "https://hextris.github.io/hextris/", "category": "Action", "iconName": "Hexagon", "gradient": "from-purple-600 to-fuchsia-700", "rating": 4.5, "playCount": 150, "author": "Hextris"
+  },
+  {
+    "id": "hex-c-3", "title": "Hextris: Solar Wind", "description": "Cosmic space themes. Rotate tiles under cosmic storms.", "iframeUrl": "https://hextris.github.io/hextris/", "category": "Action", "iconName": "Hexagon", "gradient": "from-orange-500 to-red-500", "rating": 4.7, "playCount": 230, "author": "Hextris"
+  },
+  {
+    "id": "hex-c-4", "title": "Hextris: Frost Shield", "description": "Cool ice colors. Keep column stacking low with precision turns.", "iframeUrl": "https://hextris.github.io/hextris/", "category": "Action", "iconName": "Hexagon", "gradient": "from-teal-400 to-sky-600", "rating": 4.5, "playCount": 175, "author": "Hextris"
+  },
+  {
+    "id": "hex-c-5", "title": "Hextris: Shadow Core", "description": "Atmospheric dark themes. Clear columns on high-refresh cabinets.", "iframeUrl": "https://hextris.github.io/hextris/", "category": "Action", "iconName": "Hexagon", "gradient": "from-zinc-800 to-black", "rating": 4.4, "playCount": 125, "author": "Hextris"
+  },
+  {
+    "id": "hex-c-6", "title": "Hextris: Lime Glitch", "description": "Vibrant arcade design. Fast stacking action with lime blocks.", "iframeUrl": "https://hextris.github.io/hextris/", "category": "Action", "iconName": "Hexagon", "gradient": "from-lime-400 to-emerald-600", "rating": 4.6, "playCount": 202, "author": "Hextris"
+  },
+  {
+    "id": "hex-c-7", "title": "Hextris: Twilight Spin", "description": "Sunset block colors. Relaxing fast-paced hexagonal puzzle sessions.", "iframeUrl": "https://hextris.github.io/hextris/", "category": "Action", "iconName": "Hexagon", "gradient": "from-pink-500 to-violet-600", "rating": 4.6, "playCount": 184, "author": "Hextris"
+  },
+  {
+    "id": "hex-c-8", "title": "Hextris: Fire Blaze", "description": "Intense matches. Clear rows before blocks spill over borders.", "iframeUrl": "https://hextris.github.io/hextris/", "category": "Action", "iconName": "Hexagon", "gradient": "from-red-500 to-orange-600", "rating": 4.7, "playCount": 270, "author": "Hextris"
+  },
+  {
+    "id": "hex-c-9", "title": "Hextris: Cyber Grid", "description": "Techno soundtrack feels. Fast block clears with sound triggers.", "iframeUrl": "https://hextris.github.io/hextris/", "category": "Action", "iconName": "Hexagon", "gradient": "from-teal-500 to-indigo-800", "rating": 4.5, "playCount": 160, "author": "Hextris"
+  },
+  {
+    "id": "hex-c-10", "title": "Hextris: Gold Standard", "description": "Elite speed challenge. Stacking heights increase rapidly.", "iframeUrl": "https://hextris.github.io/hextris/", "category": "Action", "iconName": "Hexagon", "gradient": "from-amber-400 to-yellow-500", "rating": 4.8, "playCount": 310, "author": "Hextris"
+  },
+  {
+    "id": "tet-r-1", "title": "Tetris: Stage Alpha", "description": "Retro blocks falling down. Fit rows flawlessly to clean grid.", "iframeUrl": "https://chvin.github.io/react-tetris/", "category": "Retro", "iconName": "Gamepad", "gradient": "from-blue-600 to-cyan-500", "rating": 4.8, "playCount": 580, "author": "React-Tetris"
+  },
+  {
+    "id": "tet-r-2", "title": "Tetris: Speed Loop", "description": "Rapid tetromino shifts. Test spatial reflexes on classic levels.", "iframeUrl": "https://chvin.github.io/react-tetris/", "category": "Retro", "iconName": "Gamepad", "gradient": "from-red-600 to-purple-800", "rating": 4.7, "playCount": 420, "author": "React-Tetris"
+  },
+  {
+    "id": "tet-r-3", "title": "Tetris: Iron Slabs", "description": "High block drop speeds. Arrange bricks in perfect combinations.", "iframeUrl": "https://chvin.github.io/react-tetris/", "category": "Retro", "iconName": "Gamepad", "gradient": "from-slate-700 to-stone-900", "rating": 4.6, "playCount": 310, "author": "React-Tetris"
+  },
+  {
+    "id": "tet-r-4", "title": "Tetris: Neon Spark", "description": "Electric cyber blocks. Double rows clears yield massive visual boosts.", "iframeUrl": "https://chvin.github.io/react-tetris/", "category": "Retro", "iconName": "Gamepad", "gradient": "from-fuchsia-500 to-pink-500", "rating": 4.9, "playCount": 790, "author": "React-Tetris"
+  },
+  {
+    "id": "tet-r-5", "title": "Tetris: Emerald Woods", "description": "Peaceful forest backgrounds. Enjoy retro sessions under soft trees.", "iframeUrl": "https://chvin.github.io/react-tetris/", "category": "Retro", "iconName": "Gamepad", "gradient": "from-emerald-600 to-teal-500", "rating": 4.7, "playCount": 360, "author": "React-Tetris"
+  },
+  {
+    "id": "tet-r-6", "title": "Tetris: Sunset Shift", "description": "Dusk visual hues. Fit falling puzzle pieces under warm lights.", "iframeUrl": "https://chvin.github.io/react-tetris/", "category": "Retro", "iconName": "Gamepad", "gradient": "from-orange-500 to-rose-500", "rating": 4.7, "playCount": 410, "author": "React-Tetris"
+  },
+  {
+    "id": "tet-r-7", "title": "Tetris: Midnight Run", "description": "Extreme block drops. Clear maximum sets to break world scores.", "iframeUrl": "https://chvin.github.io/react-tetris/", "category": "Retro", "iconName": "Gamepad", "gradient": "from-indigo-950 to-blue-900", "rating": 4.8, "playCount": 530, "author": "React-Tetris"
+  },
+  {
+    "id": "tet-r-8", "title": "Tetris: Golden Brick", "description": "Collect block score combinations. Enjoy retro levels at your pace.", "iframeUrl": "https://chvin.github.io/react-tetris/", "category": "Retro", "iconName": "Gamepad", "gradient": "from-yellow-400 to-orange-500", "rating": 4.8, "playCount": 610, "author": "React-Tetris"
+  },
+  {
+    "id": "tet-r-9", "title": "Tetris: Cyber City", "description": "Futuristic skyscraper aesthetics. Drop tetrominos on neon foundations.", "iframeUrl": "https://chvin.github.io/react-tetris/", "category": "Retro", "iconName": "Gamepad", "gradient": "from-cyan-500 to-indigo-700", "rating": 4.7, "playCount": 480, "author": "React-Tetris"
+  },
+  {
+    "id": "tet-r-10", "title": "Tetris: Retro Peak", "description": "Ultimate difficulty emulator mode. Test rapid fingers in level 15 setup.", "iframeUrl": "https://chvin.github.io/react-tetris/", "category": "Retro", "iconName": "Gamepad", "gradient": "from-rose-600 to-zinc-900", "rating": 4.9, "playCount": 850, "author": "React-Tetris"
+  },
+  {
+    "id": "pac-m-1", "title": "Pacman: Maze Level 1", "description": "Step into maze 1. Double pellets, slow enemies, great start.", "iframeUrl": "https://mczak.com/code/pacman/", "category": "Retro", "iconName": "Cpu", "gradient": "from-amber-400 to-yellow-500", "rating": 4.8, "playCount": 390, "author": "Classic Pac"
+  },
+  {
+    "id": "pac-m-2", "title": "Pacman: Maze Level 2", "description": "Ghost speeds incremented. Navigate cross paths with tactical escapes.", "iframeUrl": "https://mczak.com/code/pacman/", "category": "Retro", "iconName": "Cpu", "gradient": "from-orange-500 to-red-600", "rating": 4.7, "playCount": 320, "author": "Classic Pac"
+  },
+  {
+    "id": "pac-m-3", "title": "Pacman: Ghost Hunt", "description": "Constant fruit triggers. Hunt blue ghosts across neon tracks.", "iframeUrl": "https://mczak.com/code/pacman/", "category": "Retro", "iconName": "Cpu", "gradient": "from-blue-600 to-indigo-800", "rating": 4.8, "playCount": 490, "author": "Classic Pac"
+  },
+  {
+    "id": "pac-m-4", "title": "Pacman: Neon Shadows", "description": "Clean black and neon maze sets. Play retro levels under low light.", "iframeUrl": "https://mczak.com/code/pacman/", "category": "Retro", "iconName": "Cpu", "gradient": "from-zinc-800 to-fuchsia-700", "rating": 4.6, "playCount": 210, "author": "Classic Pac"
+  },
+  {
+    "id": "pac-m-5", "title": "Pacman: Sweet Forest", "description": "Eco themed pathways. Collect natural foods while outplaying obstacles.", "iframeUrl": "https://mczak.com/code/pacman/", "category": "Retro", "iconName": "Cpu", "gradient": "from-green-600 to-teal-500", "rating": 4.7, "playCount": 250, "author": "Classic Pac"
+  },
+  {
+    "id": "pac-m-6", "title": "Pacman: Sunset Chase", "description": "Warm dusk levels. Guide the yellow retro icon to maximum scores.", "iframeUrl": "https://mczak.com/code/pacman/", "category": "Retro", "iconName": "Cpu", "gradient": "from-pink-500 to-orange-400", "rating": 4.7, "playCount": 280, "author": "Classic Pac"
+  },
+  {
+    "id": "pac-m-7", "title": "Pacman: Void Runner", "description": "Minimal interface map. Evade ghosts in absolute pitch space grids.", "iframeUrl": "https://mczak.com/code/pacman/", "category": "Retro", "iconName": "Cpu", "gradient": "from-slate-900 to-cyan-800", "rating": 4.6, "playCount": 180, "author": "Classic Pac"
+  },
+  {
+    "id": "pac-m-8", "title": "Pacman: Gold Fever", "description": "Double multipliers. Grow high scores rapidly on gold grid tracks.", "iframeUrl": "https://mczak.com/code/pacman/", "category": "Retro", "iconName": "Cpu", "gradient": "from-amber-500 to-yellow-600", "rating": 4.8, "playCount": 410, "author": "Classic Pac"
+  },
+  {
+    "id": "pac-m-9", "title": "Pacman: Circuit Grid", "description": "Microchip trace trails. Traverse copper cables while chewing pellets.", "iframeUrl": "https://mczak.com/code/pacman/", "category": "Retro", "iconName": "Cpu", "gradient": "from-teal-500 to-purple-800", "rating": 4.7, "playCount": 330, "author": "Classic Pac"
+  },
+  {
+    "id": "pac-m-10", "title": "Pacman: Turbo Loop", "description": "Hyper speed trials. Supercharged ghosts track your precise coordinates.", "iframeUrl": "https://mczak.com/code/pacman/", "category": "Retro", "iconName": "Cpu", "gradient": "from-red-650 to-rose-500", "rating": 4.9, "playCount": 640, "author": "Classic Pac"
+  },
+  {
+    "id": "tow-b-1", "title": "Tower Stack: Level 1", "description": "Deploy stable slabs. Align the moving cranes perfectly.", "iframeUrl": "https://clement-madiot.github.io/tower-building/", "category": "Precision", "iconName": "Layers", "gradient": "from-teal-400 to-green-500", "rating": 4.5, "playCount": 210, "author": "C. Madiot"
+  },
+  {
+    "id": "tow-b-2", "title": "Tower Stack: Level 2", "description": "Swaying skyscraper heights. Balance columns under high winds.", "iframeUrl": "https://clement-madiot.github.io/tower-building/", "category": "Precision", "iconName": "Layers", "gradient": "from-blue-500 to-teal-600", "rating": 4.6, "playCount": 240, "author": "C. Madiot"
+  },
+  {
+    "id": "tow-b-3", "title": "Tower Stack: Neon High", "description": "Bright fluorescent architecture. Build beautiful night light towers.", "iframeUrl": "https://clement-madiot.github.io/tower-building/", "category": "Precision", "iconName": "Layers", "gradient": "from-pink-600 to-purple-650", "rating": 4.6, "playCount": 270, "author": "C. Madiot"
+  },
+  {
+    "id": "tow-b-4", "title": "Tower Stack: Fire Pillar", "description": "Lava landscape setups. Drop hard stone levels to build safe pillars.", "iframeUrl": "https://clement-madiot.github.io/tower-building/", "category": "Precision", "iconName": "Layers", "gradient": "from-red-500 to-amber-600", "rating": 4.4, "playCount": 150, "author": "C. Madiot"
+  },
+  {
+    "id": "tow-b-5", "title": "Tower Stack: Ocean View", "description": "Waterfront construction. Assemble docks and light towers over ocean tides.", "iframeUrl": "https://clement-madiot.github.io/tower-building/", "category": "Precision", "iconName": "Layers", "gradient": "from-sky-400 to-blue-600", "rating": 4.5, "playCount": 185, "author": "C. Madiot"
+  },
+  {
+    "id": "tow-b-6", "title": "Tower Stack: Forest Lodge", "description": "Wooden block textures. Erect rustic mountain structures safely.", "iframeUrl": "https://clement-madiot.github.io/tower-building/", "category": "Precision", "iconName": "Layers", "gradient": "from-green-600 to-emerald-800", "rating": 4.5, "playCount": 195, "author": "C. Madiot"
+  },
+  {
+    "id": "tow-b-7", "title": "Tower Stack: Void Lift", "description": "Space station construction blocks. Work inside zero gravity simulations.", "iframeUrl": "https://clement-madiot.github.io/tower-building/", "category": "Precision", "iconName": "Layers", "gradient": "from-indigo-950 to-slate-800", "rating": 4.5, "playCount": 215, "author": "C. Madiot"
+  },
+  {
+    "id": "tow-b-8", "title": "Tower Stack: Golden Gate", "description": "Erect glowing gold structures. Complete precision alignments consistently.", "iframeUrl": "https://clement-madiot.github.io/tower-building/", "category": "Precision", "iconName": "Layers", "gradient": "from-yellow-400 to-orange-500", "rating": 4.7, "playCount": 310, "author": "C. Madiot"
+  },
+  {
+    "id": "tow-b-9", "title": "Tower Stack: Cyber Slates", "description": "Assemble dark logic towers. Manage block swing indexes.", "iframeUrl": "https://clement-madiot.github.io/tower-building/", "category": "Precision", "iconName": "Layers", "gradient": "from-teal-500 to-indigo-800", "rating": 4.6, "playCount": 260, "author": "C. Madiot"
+  },
+  {
+    "id": "tow-b-10", "title": "Tower Stack: Ultimate Cloud", "description": "Build past the atmosphere into the stars. Zero room for alignment errors.", "iframeUrl": "https://clement-madiot.github.io/tower-building/", "category": "Precision", "iconName": "Layers", "gradient": "from-rose-500 to-violet-800", "rating": 4.8, "playCount": 420, "author": "C. Madiot"
+  },
+  {
+    "id": "snk-a-1", "title": "Retro Snake: Classic 1", "description": "Standard board game layout. Consume apples, steer safe curves.", "iframeUrl": "https://mczak.com/code/snake/", "category": "Retro", "iconName": "TrendingUp", "gradient": "from-green-500 to-emerald-600", "rating": 4.7, "playCount": 380, "author": "Classic Snk"
+  },
+  {
+    "id": "snk-a-2", "title": "Retro Snake: Fast Pace", "description": "Accelerated crawling speeds. Avoid walls and expanding body lines.", "iframeUrl": "https://mczak.com/code/snake/", "category": "Retro", "iconName": "TrendingUp", "gradient": "from-orange-500 to-red-500", "rating": 4.6, "playCount": 290, "author": "Classic Snk"
+  },
+  {
+    "id": "snk-a-3", "title": "Retro Snake: Neon Rave", "description": "Double apple speedrun. Glow trails highlight crawling routes.", "iframeUrl": "https://mczak.com/code/snake/", "category": "Retro", "iconName": "TrendingUp", "gradient": "from-pink-500 to-violet-700", "rating": 4.8, "playCount": 410, "author": "Classic Snk"
+  },
+  {
+    "id": "snk-a-4", "title": "Retro Snake: Frozen Arena", "description": "Ice field aesthetics. Navigate the sliding retro reptile perfectly.", "iframeUrl": "https://mczak.com/code/snake/", "category": "Retro", "iconName": "TrendingUp", "gradient": "from-sky-500 to-cyan-700", "rating": 4.5, "playCount": 195, "author": "Classic Snk"
+  },
+  {
+    "id": "snk-a-5", "title": "Retro Snake: Eco Meadows", "description": "Lush grass map. Classic retro snake loops across green fields.", "iframeUrl": "https://mczak.com/code/snake/", "category": "Retro", "iconName": "TrendingUp", "gradient": "from-green-700 to-teal-500", "rating": 4.6, "playCount": 220, "author": "Classic Snk"
+  },
+  {
+    "id": "snk-a-6", "title": "Retro Snake: Sunset Sands", "description": "Swaying desert backgrounds. Track apples and build snake records.", "iframeUrl": "https://mczak.com/code/snake/", "category": "Retro", "iconName": "TrendingUp", "gradient": "from-yellow-500 to-orange-600", "rating": 4.6, "playCount": 240, "author": "Classic Snk"
+  },
+  {
+    "id": "snk-a-7", "title": "Retro Snake: Metal Gear", "description": "Industrial style map. Navigate metallic pipe layouts safely.", "iframeUrl": "https://mczak.com/code/snake/", "category": "Retro", "iconName": "TrendingUp", "gradient": "from-zinc-700 to-slate-900", "rating": 4.5, "playCount": 170, "author": "Classic Snk"
+  },
+  {
+    "id": "snk-a-8", "title": "Retro Snake: Void Space", "description": "Infinite dark cosmic sky. Traverse starry spaces eating energy nodes.", "iframeUrl": "https://mczak.com/code/snake/", "category": "Retro", "iconName": "TrendingUp", "gradient": "from-indigo-950 to-blue-900", "rating": 4.7, "playCount": 330, "author": "Classic Snk"
+  },
+  {
+    "id": "snk-a-9", "title": "Retro Snake: Cyberpunk Edge", "description": "Techno digital overlays. Grow neon lengths on sleek circuits.", "iframeUrl": "https://mczak.com/code/snake/", "category": "Retro", "iconName": "TrendingUp", "gradient": "from-teal-400 to-fuchsia-600", "rating": 4.7, "playCount": 295, "author": "Classic Snk"
+  },
+  {
+    "id": "snk-a-10", "title": "Retro Snake: Hyper Speed", "description": "Extreme reflex speed runs. Instant directions inputs are required.", "iframeUrl": "https://mczak.com/code/snake/", "category": "Retro", "iconName": "TrendingUp", "gradient": "from-red-600 to-rose-500", "rating": 4.8, "playCount": 510, "author": "Classic Snk"
+  },
+  {
+    "id": "spc-i-1", "title": "Space Orbit: Level 1", "description": "Evade vertical alien drops. Fire laser bursts to sweep skies.", "iframeUrl": "https://mczak.com/code/spaceinvaders/", "category": "Retro", "iconName": "Rocket", "gradient": "from-indigo-950 to-purple-900", "rating": 4.7, "playCount": 350, "author": "Mczak Classic"
+  },
+  {
+    "id": "spc-i-2", "title": "Space Orbit: Elite Shield", "description": "Extra defensive platforms. Protect coordinates against waves.", "iframeUrl": "https://mczak.com/code/spaceinvaders/", "category": "Retro", "iconName": "Rocket", "gradient": "from-blue-900 to-cyan-700", "rating": 4.6, "playCount": 260, "author": "Mczak Classic"
+  },
+  {
+    "id": "spc-i-3", "title": "Space Orbit: Neon Wave", "description": "Flashing particle effects. Direct energy bursts at dropping entities.", "iframeUrl": "https://mczak.com/code/spaceinvaders/", "category": "Retro", "iconName": "Rocket", "gradient": "from-pink-600 to-fuchsia-800", "rating": 4.8, "playCount": 420, "author": "Mczak Classic"
+  },
+  {
+    "id": "spc-i-4", "title": "Space Orbit: Frost Belt", "description": "Icy layout stars. Aim spaceships through frozen meteors.", "iframeUrl": "https://mczak.com/code/spaceinvaders/", "category": "Retro", "iconName": "Rocket", "gradient": "from-sky-700 to-teal-500", "rating": 4.5, "playCount": 185, "author": "Mczak Classic"
+  },
+  {
+    "id": "spc-i-5", "title": "Space Orbit: Deep Forest", "description": "Lush jungle skies. Guard territories from incoming star probes.", "iframeUrl": "https://mczak.com/code/spaceinvaders/", "category": "Retro", "iconName": "Rocket", "gradient": "from-green-800 to-emerald-600", "rating": 4.6, "playCount": 210, "author": "Mczak Classic"
+  },
+  {
+    "id": "spc-i-6", "title": "Space Orbit: Sunset Star", "description": "Warm coordinate grids. Sweep falling squads across sky lines.", "iframeUrl": "https://mczak.com/code/spaceinvaders/", "category": "Retro", "iconName": "Rocket", "gradient": "from-orange-650 to-rose-500", "rating": 4.6, "playCount": 230, "author": "Mczak Classic"
+  },
+  {
+    "id": "spc-i-7", "title": "Space Orbit: Metal Alloys", "description": "Steer heavily armored jets. Complete direct defensive runs.", "iframeUrl": "https://mczak.com/code/spaceinvaders/", "category": "Retro", "iconName": "Rocket", "gradient": "from-slate-700 to-zinc-900", "rating": 4.5, "playCount": 145, "author": "Mczak Classic"
+  },
+  {
+    "id": "spc-i-8", "title": "Space Orbit: Orion Nebula", "description": "Beautiful cosmic backdrops. Navigate heavy star battles.", "iframeUrl": "https://mczak.com/code/spaceinvaders/", "category": "Retro", "iconName": "Rocket", "gradient": "from-violet-900 to-purple-950", "rating": 4.8, "playCount": 380, "author": "Mczak Classic"
+  },
+  {
+    "id": "spc-i-9", "title": "Space Orbit: Cyber Matrix", "description": "Retro coordinate feeds. Unleash massive blasts to secure systems.", "iframeUrl": "https://mczak.com/code/spaceinvaders/", "category": "Retro", "iconName": "Rocket", "gradient": "from-teal-500 to-blue-800", "rating": 4.7, "playCount": 290, "author": "Mczak Classic"
+  },
+  {
+    "id": "spc-i-10", "title": "Space Orbit: Super Nova", "description": "Extreme speed alien descent. Requires instant reflex maneuvers.", "iframeUrl": "https://mczak.com/code/spaceinvaders/", "category": "Retro", "iconName": "Rocket", "gradient": "from-red-600 to-orange-500", "rating": 4.9, "playCount": 590, "author": "Mczak Classic"
+  },
+  {
+    "id": "b-reac-l1", "title": "Reaction speed: Stage 1", "description": "Calibrated reflex test. Wait for the neon green blink.", "iframeUrl": "", "category": "Built-In", "iconName": "Zap", "gradient": "from-green-650 to-emerald-900", "rating": 4.8, "playCount": 150, "isBuiltIn": true, "author": "Arcade Studio"
+  },
+  {
+    "id": "b-reac-l2", "title": "Reaction speed: Stage 2", "description": "Tactical coordination. Visual indicators shift dynamically.", "iframeUrl": "", "category": "Built-In", "iconName": "Zap", "gradient": "from-blue-650 to-indigo-900", "rating": 4.7, "playCount": 130, "isBuiltIn": true, "author": "Arcade Studio"
+  },
+  {
+    "id": "b-reac-l3", "title": "Reaction speed: Stage 3", "description": "High refresh challenge. Designed to train elite esports players.", "iframeUrl": "", "category": "Built-In", "iconName": "Zap", "gradient": "from-purple-650 to-pink-900", "rating": 4.9, "playCount": 180, "isBuiltIn": true, "author": "Arcade Studio"
+  },
+  {
+    "id": "b-reac-l4", "title": "Reaction speed: Extreme", "description": "Sub-millisecond flash triggers. Steady fingers required.", "iframeUrl": "", "category": "Built-In", "iconName": "Zap", "gradient": "from-orange-500 to-red-650", "rating": 4.9, "playCount": 210, "isBuiltIn": true, "author": "Arcade Studio"
+  },
+  {
+    "id": "b-reac-l5", "title": "Reaction speed: Zen Mode", "description": "Chill training layout. Complete challenges at comfortable speeds.", "iframeUrl": "", "category": "Built-In", "iconName": "Zap", "gradient": "from-teal-400 to-cyan-600", "rating": 4.6, "playCount": 95, "isBuiltIn": true, "author": "Arcade Studio"
+  },
+  {
+    "id": "b-mem-l1", "title": "Memory Grid: Level 1", "description": "Engage brain relays. Start with simple 3-step sequence patterns.", "iframeUrl": "", "category": "Built-In", "iconName": "BrainCircuit", "gradient": "from-fuchsia-600 to-indigo-800", "rating": 4.7, "playCount": 140, "isBuiltIn": true, "author": "Arcade Studio"
+  },
+  {
+    "id": "b-mem-l2", "title": "Memory Grid: Level 2", "description": "Speed sequence upgrades. Tracks auditory tone notes perfectly.", "iframeUrl": "", "category": "Built-In", "iconName": "BrainCircuit", "gradient": "from-pink-600 to-purple-800", "rating": 4.8, "playCount": 120, "isBuiltIn": true, "author": "Arcade Studio"
+  },
+  {
+    "id": "b-mem-l3", "title": "Memory Grid: Level 3", "description": "Complex coordinate tracking loops. Train precise mental mapping.", "iframeUrl": "", "category": "Built-In", "iconName": "BrainCircuit", "gradient": "from-violet-600 to-cyan-700", "rating": 4.8, "playCount": 160, "isBuiltIn": true, "author": "Arcade Studio"
+  },
+  {
+    "id": "b-mem-l4", "title": "Memory Grid: Level 4", "description": "Hyper speed grid glows. Accelerates matching sequences immediately.", "iframeUrl": "", "category": "Built-In", "iconName": "BrainCircuit", "gradient": "from-rose-500 to-amber-600", "rating": 4.9, "playCount": 190, "isBuiltIn": true, "author": "Arcade Studio"
+  },
+  {
+    "id": "b-mem-l5", "title": "Memory Grid: Mind Melt", "description": "Insane limits sequence. Features random reverse pattern blocks.", "iframeUrl": "", "category": "Built-In", "iconName": "BrainCircuit", "gradient": "from-red-600 to-stone-900", "rating": 4.9, "playCount": 240, "isBuiltIn": true, "author": "Arcade Studio"
+  },
+  {
+    "id": "puz-401", "title": "2048: Cyber City", "description": "Techno design colors. Fuse components to power municipal setups.", "iframeUrl": "https://gabrielecirulli.github.io/2048/", "category": "Puzzles", "iconName": "Grid", "gradient": "from-cyan-600 to-slate-900", "rating": 4.6, "playCount": 110, "author": "G.C."
+  },
+  {
+    "id": "puz-402", "title": "2048: Violet Core", "description": "Electric ultraviolet layout tiles. Push block limits to break records.", "iframeUrl": "https://gabrielecirulli.github.io/2048/", "category": "Puzzles", "iconName": "Grid", "gradient": "from-fuchsia-700 to-indigo-900", "rating": 4.7, "playCount": 125, "author": "G.C."
+  },
+  {
+    "id": "puz-403", "title": "2048: Amber Solar", "description": "Bright desert gold tiles. Move components in hot arcade grids.", "iframeUrl": "https://gabrielecirulli.github.io/2048/", "category": "Puzzles", "iconName": "Grid", "gradient": "from-yellow-500 to-orange-600", "rating": 4.6, "playCount": 135, "author": "G.C."
+  },
+  {
+    "id": "puz-404", "title": "2048: Frost Shift", "description": "Cool glass patterns. Merge number cubes smoothly under dim skies.", "iframeUrl": "https://gabrielecirulli.github.io/2048/", "category": "Puzzles", "iconName": "Grid", "gradient": "from-sky-400 to-blue-600", "rating": 4.5, "playCount": 95, "author": "G.C."
+  },
+  {
+    "id": "puz-405", "title": "2048: Earth Clay", "description": "Forest green aesthetic. Peaceful merge sessions, standard grids.", "iframeUrl": "https://gabrielecirulli.github.io/2048/", "category": "Puzzles", "iconName": "Grid", "gradient": "from-green-600 to-teal-700", "rating": 4.5, "playCount": 105, "author": "G.C."
+  },
+  {
+    "id": "puz-406", "title": "2048: Rose Flare", "description": "Vibrant pink highlights. Slide and combine squares to hit 2048.", "iframeUrl": "https://gabrielecirulli.github.io/2048/", "category": "Puzzles", "iconName": "Grid", "gradient": "from-pink-500 to-rose-600", "rating": 4.7, "playCount": 140, "author": "G.C."
+  },
+  {
+    "id": "puz-407", "title": "2048: Iron Slabs", "description": "Brutalist dark theme. Hard metal tiles slide with solid sounds.", "iframeUrl": "https://gabrielecirulli.github.io/2048/", "category": "Puzzles", "iconName": "Grid", "gradient": "from-neutral-700 to-zinc-900", "rating": 4.4, "playCount": 80, "author": "G.C."
+  },
+  {
+    "id": "puz-408", "title": "2048: Cosmic Blast", "description": "Vast spatial background sets. Combine number blocks amidst orbits.", "iframeUrl": "https://gabrielecirulli.github.io/2048/", "category": "Puzzles", "iconName": "Grid", "gradient": "from-violet-800 to-purple-950", "rating": 4.6, "playCount": 115, "author": "G.C."
+  },
+  {
+    "id": "puz-409", "title": "2048: Emerald Mines", "description": "Mine valuable precious stone blocks. Reach top grade alloys.", "iframeUrl": "https://gabrielecirulli.github.io/2048/", "category": "Puzzles", "iconName": "Grid", "gradient": "from-emerald-500 to-teal-600", "rating": 4.7, "playCount": 130, "author": "G.C."
+  },
+  {
+    "id": "puz-410", "title": "2048: Lava Core", "description": "Intense volcanic block colors. Speedslide numbers to score heights.", "iframeUrl": "https://gabrielecirulli.github.io/2048/", "category": "Puzzles", "iconName": "Grid", "gradient": "from-red-650 to-orange-500", "rating": 4.8, "playCount": 185, "author": "G.C."
+  },
+  {
+    "id": "act-501", "title": "Hextris: Sector Blue", "description": "Clear levels in blue sector. Match color plates perfectly.", "iframeUrl": "https://hextris.github.io/hextris/", "category": "Action", "iconName": "Hexagon", "gradient": "from-sky-500 to-indigo-600", "rating": 4.6, "playCount": 110, "author": "Hex Dev"
+  },
+  {
+    "id": "act-502", "title": "Hextris: Magenta Core", "description": "High-intensity stacks. Rotate multi-color tiles on edge blocks.", "iframeUrl": "https://hextris.github.io/hextris/", "category": "Action", "iconName": "Hexagon", "gradient": "from-pink-600 to-purple-800", "rating": 4.5, "playCount": 95, "author": "Hex Dev"
+  },
+  {
+    "id": "act-503", "title": "Hextris: Orange Flare", "description": "Bright amber tiles. Maintain low block heights to survive.", "iframeUrl": "https://hextris.github.io/hextris/", "category": "Action", "iconName": "Hexagon", "gradient": "from-yellow-500 to-red-600", "rating": 4.7, "playCount": 140, "author": "Hex Dev"
+  },
+  {
+    "id": "act-504", "title": "Hextris: Jade Peak", "description": "Lush green elements. Relaxing pacing built for training hours.", "iframeUrl": "https://hextris.github.io/hextris/", "category": "Action", "iconName": "Hexagon", "gradient": "from-green-500 to-teal-600", "rating": 4.6, "playCount": 105, "author": "Hex Dev"
+  },
+  {
+    "id": "act-505", "title": "Hextris: Midnight Void", "description": "Stealth spatial panels. Focus solely on glowing incoming tiles.", "iframeUrl": "https://hextris.github.io/hextris/", "category": "Action", "iconName": "Hexagon", "gradient": "from-zinc-900 to-black", "rating": 4.5, "playCount": 75, "author": "Hex Dev"
+  },
+  {
+    "id": "act-506", "title": "Hextris: Cyber Surge", "description": "Accelerated level designs. Blocks descend with top frequency.", "iframeUrl": "https://hextris.github.io/hextris/", "category": "Action", "iconName": "Hexagon", "gradient": "from-cyan-400 to-violet-700", "rating": 4.7, "playCount": 160, "author": "Hex Dev"
+  },
+  {
+    "id": "act-507", "title": "Hextris: Gold Mine", "description": "Double multipliers active. Complete columns triggers to score.", "iframeUrl": "https://hextris.github.io/hextris/", "category": "Action", "iconName": "Hexagon", "gradient": "from-amber-400 to-yellow-600", "rating": 4.8, "playCount": 195, "author": "Hex Dev"
+  },
+  {
+    "id": "act-508", "title": "Hextris: Lava Ring", "description": "Intense thermal skins. Fast side swaps manage board volumes.", "iframeUrl": "https://hextris.github.io/hextris/", "category": "Action", "iconName": "Hexagon", "gradient": "from-red-650 to-orange-550", "rating": 4.6, "playCount": 120, "author": "Hex Dev"
+  },
+  {
+    "id": "act-509", "title": "Hextris: Carbon fiber", "description": "Sleek industrial interface. Clean grids react to controls instantly.", "iframeUrl": "https://hextris.github.io/hextris/", "category": "Action", "iconName": "Hexagon", "gradient": "from-slate-700 to-slate-900", "rating": 4.5, "playCount": 85, "author": "Hex Dev"
+  },
+  {
+    "id": "act-510", "title": "Hextris: Supernova", "description": "Extreme level limits. Max speeds require peak neural focus.", "iframeUrl": "https://hextris.github.io/hextris/", "category": "Action", "iconName": "Hexagon", "gradient": "from-rose-600 to-fuchsia-950", "rating": 4.9, "playCount": 230, "author": "Hex Dev"
+  },
+  {
+    "id": "retro-601", "title": "Tetris: Cyber Grid", "description": "Techno design board. Fit brick layouts with cyber sounds.", "iframeUrl": "https://chvin.github.io/react-tetris/", "category": "Retro", "iconName": "Gamepad", "gradient": "from-indigo-950 to-blue-900", "rating": 4.8, "playCount": 180, "author": "Block Dev"
+  },
+  {
+    "id": "retro-602", "title": "Tetris: Ultraviolet", "description": "Sleek purple neon pieces. Rotate blocks on high refresh feeds.", "iframeUrl": "https://chvin.github.io/react-tetris/", "category": "Retro", "iconName": "Gamepad", "gradient": "from-purple-700 to-fuchsia-600", "rating": 4.7, "playCount": 145, "author": "Block Dev"
+  },
+  {
+    "id": "retro-603", "title": "Tetris: Solar Gold", "description": "Warm retro visuals. Stack falling lines under ambient light.", "iframeUrl": "https://chvin.github.io/react-tetris/", "category": "Retro", "iconName": "Gamepad", "gradient": "from-amber-500 to-orange-600", "rating": 4.8, "playCount": 210, "author": "Block Dev"
+  },
+  {
+    "id": "retro-604", "title": "Tetris: Blizzard", "description": "Cool frozen matrix. Manage high speed tetromino drops easily.", "iframeUrl": "https://chvin.github.io/react-tetris/", "category": "Retro", "iconName": "Gamepad", "gradient": "from-cyan-400 to-sky-600", "rating": 4.6, "playCount": 115, "author": "Block Dev"
+  },
+  {
+    "id": "retro-605", "title": "Tetris: Mossy Stone", "description": "Lush forest puzzle styles. Safe and chill brick fitting levels.", "iframeUrl": "https://chvin.github.io/react-tetris/", "category": "Retro", "iconName": "Gamepad", "gradient": "from-green-600 to-teal-700", "rating": 4.7, "playCount": 130, "author": "Block Dev"
+  },
+  {
+    "id": "retro-606", "title": "Tetris: Rose Quartz", "description": "Soft pink quartz blocks. Enjoy retro gaming in warm frames.", "iframeUrl": "https://chvin.github.io/react-tetris/", "category": "Retro", "iconName": "Gamepad", "gradient": "from-pink-500 to-rose-400", "rating": 4.7, "playCount": 155, "author": "Block Dev"
+  },
+  {
+    "id": "retro-607", "title": "Tetris: Carbon Grid", "description": "Brutalist block systems. Highly stable keys capture drop moves.", "iframeUrl": "https://chvin.github.io/react-tetris/", "category": "Retro", "iconName": "Gamepad", "gradient": "from-zinc-800 to-neutral-900", "rating": 4.5, "playCount": 90, "author": "Block Dev"
+  },
+  {
+    "id": "retro-608", "title": "Tetris: Star Cluster", "description": "Beautiful deep orbits. Fit colored components between nebulas.", "iframeUrl": "https://chvin.github.io/react-tetris/", "category": "Retro", "iconName": "Gamepad", "gradient": "from-violet-900 to-purple-950", "rating": 4.8, "playCount": 175, "author": "Block Dev"
+  },
+  {
+    "id": "retro-609", "title": "Tetris: Emerald Bay", "description": "Vibrant water colors. Slide tetromino grids cleanly to score.", "iframeUrl": "https://chvin.github.io/react-tetris/", "category": "Retro", "iconName": "Gamepad", "gradient": "from-teal-500 to-emerald-600", "rating": 4.7, "playCount": 150, "author": "Block Dev"
+  },
+  {
+    "id": "retro-610", "title": "Tetris: Magma Forge", "description": "Intense molten levels. Drops accelerate past limit speeds instantly.", "iframeUrl": "https://chvin.github.io/react-tetris/", "category": "Retro", "iconName": "Gamepad", "gradient": "from-red-650 to-orange-500", "rating": 4.9, "playCount": 280, "author": "Block Dev"
+  },
+  {
+    "id": "snk-c-1", "title": "Neon Snake: Velocity Blue", "description": "Sleek blue interface grids. Direct crawls smoothly.", "iframeUrl": "https://mczak.com/code/snake/", "category": "Retro", "iconName": "TrendingUp", "gradient": "from-sky-550 to-indigo-800", "rating": 4.7, "playCount": 160, "author": "Classic Reptile"
+  },
+  {
+    "id": "snk-c-2", "title": "Neon Snake: Violet Trails", "description": "Auditory tone sound effects on eat. Slide curves safely.", "iframeUrl": "https://mczak.com/code/snake/", "category": "Retro", "iconName": "TrendingUp", "gradient": "from-purple-600 to-fuchsia-700", "rating": 4.7, "playCount": 135, "author": "Classic Reptile"
+  },
+  {
+    "id": "snk-c-3", "title": "Neon Snake: Solar Flare", "description": "Molten board layouts. Accelerate tracks on fruit collection.", "iframeUrl": "https://mczak.com/code/snake/", "category": "Retro", "iconName": "TrendingUp", "gradient": "from-yellow-550 to-red-650", "rating": 4.8, "playCount": 190, "author": "Classic Reptile"
+  },
+  {
+    "id": "snk-c-4", "title": "Neon Snake: Ice Slide", "description": "Deep freeze coordinates. Keep tail segment loops accurate.", "iframeUrl": "https://mczak.com/code/snake/", "category": "Retro", "iconName": "TrendingUp", "gradient": "from-cyan-500 to-teal-600", "rating": 4.5, "playCount": 105, "author": "Classic Reptile"
+  },
+  {
+    "id": "snk-c-5", "title": "Neon Snake: Forest Peak", "description": "Green foliage themes. Safe classic pathways for chill plays.", "iframeUrl": "https://mczak.com/code/snake/", "category": "Retro", "iconName": "TrendingUp", "gradient": "from-green-600 to-emerald-800", "rating": 4.6, "playCount": 120, "author": "Classic Reptile"
+  },
+  {
+    "id": "snk-c-6", "title": "Neon Snake: Rose Glow", "description": "Hot pink reptile. Chase glowing food dots across dark nets.", "iframeUrl": "https://mczak.com/code/snake/", "category": "Retro", "iconName": "TrendingUp", "gradient": "from-pink-500 to-rose-650", "rating": 4.7, "playCount": 145, "author": "Classic Reptile"
+  },
+  {
+    "id": "snk-c-7", "title": "Neon Snake: Steel Shell", "description": "Industrial style layout. Avoid hard boundaries with fast key taps.", "iframeUrl": "https://mczak.com/code/snake/", "category": "Retro", "iconName": "TrendingUp", "gradient": "from-zinc-700 to-stone-900", "rating": 4.5, "playCount": 85, "author": "Classic Reptile"
+  },
+  {
+    "id": "snk-c-8", "title": "Neon Snake: Galaxy Run", "description": "Orion stars background. Crawl through cosmic traces dynamically.", "iframeUrl": "https://mczak.com/code/snake/", "category": "Retro", "iconName": "TrendingUp", "gradient": "from-purple-900 to-blue-950", "rating": 4.7, "playCount": 165, "author": "Classic Reptile"
+  },
+  {
+    "id": "snk-c-9", "title": "Neon Snake: Electric Core", "description": "Vibrant custom themes. Earn high-count points on speedruns.", "iframeUrl": "https://mczak.com/code/snake/", "category": "Retro", "iconName": "TrendingUp", "gradient": "from-teal-400 to-cyan-700", "rating": 4.7, "playCount": 150, "author": "Classic Reptile"
+  },
+  {
+    "id": "snk-c-10", "title": "Neon Snake: Inferno Speed", "description": "Crazy fast speeds. Instantly reactive turn sweeps are mandatory.", "iframeUrl": "https://mczak.com/code/snake/", "category": "Retro", "iconName": "TrendingUp", "gradient": "from-red-600 to-orange-500", "rating": 4.9, "playCount": 270, "author": "Classic Reptile"
+  },
+  {
+    "id": "spc-c-1", "title": "Space Attack: Vector Blue", "description": "Clean vector retro skies. Blast dropping alien clusters cleanly.", "iframeUrl": "https://mczak.com/code/spaceinvaders/", "category": "Retro", "iconName": "Rocket", "gradient": "from-blue-900 to-slate-900", "rating": 4.7, "playCount": 150, "author": "Vector Inv"
+  },
+  {
+    "id": "spc-c-2", "title": "Space Attack: Violet Pulse", "description": "Energy pulses shield your ship. Sweep descending invaders quickly.", "iframeUrl": "https://mczak.com/code/spaceinvaders/", "category": "Retro", "iconName": "Rocket", "gradient": "from-purple-800 to-fuchsia-950", "rating": 4.7, "playCount": 125, "author": "Vector Inv"
+  },
+  {
+    "id": "spc-c-3", "title": "Space Attack: Gold Laser", "description": "Supercharged golden lasers speed. Vaporize fleets across space.", "iframeUrl": "https://mczak.com/code/spaceinvaders/", "category": "Retro", "iconName": "Rocket", "gradient": "from-amber-400 to-orange-650", "rating": 4.8, "playCount": 195, "author": "Vector Inv"
+  },
+  {
+    "id": "spc-c-4", "title": "Space Attack: Cyan Orbit", "description": "Aim lasers past sliding frozen satellites. Guard bases safely.", "iframeUrl": "https://mczak.com/code/spaceinvaders/", "category": "Retro", "iconName": "Rocket", "gradient": "from-teal-400 to-cyan-700", "rating": 4.5, "playCount": 95, "author": "Vector Inv"
+  },
+  {
+    "id": "spc-c-5", "title": "Space Attack: Emerald Sky", "description": "Beautiful green trails. Enjoy crisp unblocked bullet actions.", "iframeUrl": "https://mczak.com/code/spaceinvaders/", "category": "Retro", "iconName": "Rocket", "gradient": "from-green-700 to-emerald-900", "rating": 4.6, "playCount": 115, "author": "Vector Inv"
+  },
+  {
+    "id": "spc-c-6", "title": "Space Attack: Coral Reef", "description": "Warm coral sunsets. Aim spacecraft at dropping invader structures.", "iframeUrl": "https://mczak.com/code/spaceinvaders/", "category": "Retro", "iconName": "Rocket", "gradient": "from-pink-500 to-rose-600", "rating": 4.7, "playCount": 130, "author": "Vector Inv"
+  },
+  {
+    "id": "spc-c-7", "title": "Space Attack: Steel Sector", "description": "Solid plate shields help navigate intense rain of alien drops.", "iframeUrl": "https://mczak.com/code/spaceinvaders/", "category": "Retro", "iconName": "Rocket", "gradient": "from-zinc-700 to-neutral-900", "rating": 4.5, "playCount": 80, "author": "Vector Inv"
+  },
+  {
+    "id": "spc-c-8", "title": "Space Attack: Dark Orion", "description": "Traverse stellar asteroid lines. Destroy tactical alien forces.", "iframeUrl": "https://mczak.com/code/spaceinvaders/", "category": "Retro", "iconName": "Rocket", "gradient": "from-blue-950 to-indigo-950", "rating": 4.8, "playCount": 160, "author": "Vector Inv"
+  },
+  {
+    "id": "spc-c-9", "title": "Space Attack: Circuit Laser", "description": "Aim rapid energy beams across microchip nodes on classic stages.", "iframeUrl": "https://mczak.com/code/spaceinvaders/", "category": "Retro", "iconName": "Rocket", "gradient": "from-teal-500 to-indigo-800", "rating": 4.7, "playCount": 140, "author": "Vector Inv"
+  },
+  {
+    "id": "spc-c-10", "title": "Space Attack: Nova Blast", "description": "Extreme firing speeds required. Aliens descend at speed indexes.", "iframeUrl": "https://mczak.com/code/spaceinvaders/", "category": "Retro", "iconName": "Rocket", "gradient": "from-red-650 to-rose-600", "rating": 4.9, "playCount": 250, "author": "Vector Inv"
+  },
+  {
+    "id": "pac-v-1", "title": "Micro Pacman: Stage 1", "description": "Enjoy standard maze grids in mini formats built for quick rounds.", "iframeUrl": "https://mczak.com/code/pacman/", "category": "Retro", "iconName": "Cpu", "gradient": "from-yellow-450 to-amber-700", "rating": 4.8, "playCount": 170, "author": "Classic Pacman"
+  },
+  {
+    "id": "pac-v-2", "title": "Micro Pacman: Stage 2", "description": "Fewer pellets, higher speeds! Steer turns flawlessly on keys.", "iframeUrl": "https://mczak.com/code/pacman/", "category": "Retro", "iconName": "Cpu", "gradient": "from-orange-500 to-red-600", "rating": 4.7, "playCount": 130, "author": "Classic Pacman"
+  },
+  {
+    "id": "pac-v-3", "title": "Micro Pacman: Void Star", "description": "No inner walls, complete freedom! Outrun ghosts in vacuum spaces.", "iframeUrl": "https://mczak.com/code/pacman/", "category": "Retro", "iconName": "Cpu", "gradient": "from-indigo-950 to-blue-900", "rating": 4.8, "playCount": 195, "author": "Classic Pacman"
+  },
+  {
+    "id": "pac-v-4", "title": "Micro Pacman: Neon Run", "description": "Glowing pellet tracks. Visually rich speeds designed to entertain.", "iframeUrl": "https://mczak.com/code/pacman/", "category": "Retro", "iconName": "Cpu", "gradient": "from-fuchsia-600 to-pink-500", "rating": 4.6, "playCount": 105, "author": "Classic Pacman"
+  },
+  {
+    "id": "pac-v-5", "title": "Micro Pacman: Jade Net", "description": "Lush green background boards. Perfect arcade paths to practice sweeps.", "iframeUrl": "https://mczak.com/code/pacman/", "category": "Retro", "iconName": "Cpu", "gradient": "from-green-600 to-emerald-800", "rating": 4.7, "playCount": 115, "author": "Classic Pacman"
+  },
+  {
+    "id": "pac-v-6", "title": "Micro Pacman: Dusk Run", "description": "Sunset light colors. Smooth unblocked gaming layouts for all.", "iframeUrl": "https://mczak.com/code/pacman/", "category": "Retro", "iconName": "Cpu", "gradient": "from-pink-500 to-orange-400", "rating": 4.7, "playCount": 125, "author": "Classic Pacman"
+  },
+  {
+    "id": "pac-v-7", "title": "Micro Pacman: Iron Shell", "description": "Rigid board paths. Perfect for speed drills on arcade keys.", "iframeUrl": "https://mczak.com/code/pacman/", "category": "Retro", "iconName": "Cpu", "gradient": "from-neutral-700 to-zinc-900", "rating": 4.5, "playCount": 85, "author": "Classic Pacman"
+  },
+  {
+    "id": "pac-v-8", "title": "Micro Pacman: Orion Dust", "description": "Star dust particle designs. Traverse coordinates eating point units.", "iframeUrl": "https://mczak.com/code/pacman/", "category": "Retro", "iconName": "Cpu", "gradient": "from-purple-900 to-violet-950", "rating": 4.8, "playCount": 165, "author": "Classic Pacman"
+  },
+  {
+    "id": "pac-v-9", "title": "Micro Pacman: Copper Trace", "description": "Digital board trails. Outrun trailing systems on microchips.", "iframeUrl": "https://mczak.com/code/pacman/", "category": "Retro", "iconName": "Cpu", "gradient": "from-teal-500 to-cyan-700", "rating": 4.7, "playCount": 140, "author": "Classic Pacman"
+  },
+  {
+    "id": "pac-v-10", "title": "Micro Pacman: Extreme", "description": "Supercharged monsters chase you recursively on micro grids.", "iframeUrl": "https://mczak.com/code/pacman/", "category": "Retro", "iconName": "Cpu", "gradient": "from-red-650 to-rose-600", "rating": 4.9, "playCount": 240, "author": "Classic Pacman"
+  },
+  {
+    "id": "tow-x-1", "title": "Tower Drop: Micro 1", "description": "Drop plates cleanly to lock heights. Simple horizontal movements.", "iframeUrl": "https://clement-madiot.github.io/tower-building/", "category": "Precision", "iconName": "Layers", "gradient": "from-teal-400 to-emerald-600", "rating": 4.5, "playCount": 150, "author": "Tower Building"
+  },
+  {
+    "id": "tow-x-2", "title": "Tower Drop: Micro 2", "description": "Crane speeds double. Center structures accurately to avoid falls.", "iframeUrl": "https://clement-madiot.github.io/tower-building/", "category": "Precision", "iconName": "Layers", "gradient": "from-blue-500 to-indigo-700", "rating": 4.6, "playCount": 120, "author": "Tower Building"
+  },
+  {
+    "id": "tow-x-3", "title": "Tower Drop: Neon", "description": "Brilliant night layouts. Place slabs perfectly under glow spotlights.", "iframeUrl": "https://clement-madiot.github.io/tower-building/", "category": "Precision", "iconName": "Layers", "gradient": "from-fuchsia-600 to-pink-500", "rating": 4.6, "playCount": 180, "author": "Tower Building"
+  },
+  {
+    "id": "tow-x-4", "title": "Tower Drop: Volcano", "description": "Smoky backdrops. Stack volcanic ores into steady protective domes.", "iframeUrl": "https://clement-madiot.github.io/tower-building/", "category": "Precision", "iconName": "Layers", "gradient": "from-red-600 to-orange-500", "rating": 4.4, "playCount": 95, "author": "Tower Building"
+  },
+  {
+    "id": "tow-x-5", "title": "Tower Drop: Ocean Dome", "description": "Construct marine pillars directly over wave streams. Keep counts high.", "iframeUrl": "https://clement-madiot.github.io/tower-building/", "category": "Precision", "iconName": "Layers", "gradient": "from-sky-400 to-cyan-600", "rating": 4.5, "playCount": 110, "author": "Tower Building"
+  },
+  {
+    "id": "tow-x-6", "title": "Tower Drop: Forest Log", "description": "Stack lumber neatly. Classic mountain side precision drills.", "iframeUrl": "https://clement-madiot.github.io/tower-building/", "category": "Precision", "iconName": "Layers", "gradient": "from-green-600 to-teal-500", "rating": 4.5, "playCount": 115, "author": "Tower Building"
+  },
+  {
+    "id": "tow-x-7", "title": "Tower Drop: Void Slate", "description": "Assemble spatial slates inside stellar labs. Balance components.", "iframeUrl": "https://clement-madiot.github.io/tower-building/", "category": "Precision", "iconName": "Layers", "gradient": "from-zinc-800 to-slate-950", "rating": 4.5, "playCount": 135, "author": "Tower Building"
+  },
+  {
+    "id": "tow-x-8", "title": "Tower Drop: Gold Vault", "description": "Drop gold bars. Align segments perfectly to lock massive multipliers.", "iframeUrl": "https://clement-madiot.github.io/tower-building/", "category": "Precision", "iconName": "Layers", "gradient": "from-yellow-400 to-amber-500", "rating": 4.7, "playCount": 195, "author": "Tower Building"
+  },
+  {
+    "id": "tow-x-9", "title": "Tower Drop: Cyber Net", "description": "Futuristic electronic grids. Aim block cranes past coordinate sweeps.", "iframeUrl": "https://clement-madiot.github.io/tower-building/", "category": "Precision", "iconName": "Layers", "gradient": "from-teal-500 to-indigo-700", "rating": 4.6, "playCount": 140, "author": "Tower Building"
+  },
+  {
+    "id": "tow-x-10", "title": "Tower Drop: Apex Cloud", "description": "Erect columns way past clouds. Requires absolute microsecond splits.", "iframeUrl": "https://clement-madiot.github.io/tower-building/", "category": "Precision", "iconName": "Layers", "gradient": "from-rose-500 to-purple-800", "rating": 4.8, "playCount": 260, "author": "Tower Building"
+  },
+  {
+    "id": "mines-ex-1", "title": "Minesweeper: Apex Alpha", "description": "Ultra high density mine grid. Verify logic tags carefully.", "iframeUrl": "https://fontenele.github.io/minesweeper/", "category": "Puzzles", "iconName": "Bomb", "gradient": "from-rose-600 to-zinc-950", "rating": 4.7, "playCount": 180, "author": "Apex Mines"
+  },
+  {
+    "id": "mines-ex-2", "title": "Minesweeper: Apex Beta", "description": "Complex coordinate sweeps. Click safe zones using logic trails.", "iframeUrl": "https://fontenele.github.io/minesweeper/", "category": "Puzzles", "iconName": "Bomb", "gradient": "from-orange-600 to-indigo-950", "rating": 4.7, "playCount": 145, "author": "Apex Mines"
+  },
+  {
+    "id": "mines-ex-3", "title": "Minesweeper: Dark Sector", "description": "Uncover pathways inside clean metal structures. Avoid clicks on raw mines.", "iframeUrl": "https://fontenele.github.io/minesweeper/", "category": "Puzzles", "iconName": "Bomb", "gradient": "from-neutral-850 to-stone-900", "rating": 4.8, "playCount": 195, "author": "Apex Mines"
+  },
+  {
+    "id": "mines-ex-4", "title": "Minesweeper: Neon Pulse", "description": "Fluorescent coordinate codes help discover safe unblocked points.", "iframeUrl": "https://fontenele.github.io/minesweeper/", "category": "Puzzles", "iconName": "Bomb", "gradient": "from-pink-600 to-fuchsia-800", "rating": 4.6, "playCount": 115, "author": "Apex Mines"
+  },
+  {
+    "id": "mines-ex-5", "title": "Minesweeper: Jade Trail", "description": "Lush moss block designs. Clear historic coordinates without stress.", "iframeUrl": "https://fontenele.github.io/minesweeper/", "category": "Puzzles", "iconName": "Bomb", "gradient": "from-green-650 to-emerald-800", "rating": 4.7, "playCount": 125, "author": "Apex Mines"
+  },
+  {
+    "id": "mines-ex-6", "title": "Minesweeper: Dusk Field", "description": "Twilight light effects. Flag block systems and click borders.", "iframeUrl": "https://fontenele.github.io/minesweeper/", "category": "Puzzles", "iconName": "Bomb", "gradient": "from-pink-500 to-orange-450", "rating": 4.7, "playCount": 130, "author": "Apex Mines"
+  },
+  {
+    "id": "mines-ex-7", "title": "Minesweeper: Solid Iron", "description": "Dark solid structures. Standard sweep controls on click captures.", "iframeUrl": "https://fontenele.github.io/minesweeper/", "category": "Puzzles", "iconName": "Bomb", "gradient": "from-stone-700 to-zinc-900", "rating": 4.5, "playCount": 90, "author": "Apex Mines"
+  },
+  {
+    "id": "mines-ex-8", "title": "Minesweeper: Orion Ring", "description": "Clear asteroid debris with precise scans. Keep records clean.", "iframeUrl": "https://fontenele.github.io/minesweeper/", "category": "Puzzles", "iconName": "Bomb", "gradient": "from-purple-900 to-blue-950", "rating": 4.8, "playCount": 160, "author": "Apex Mines"
+  },
+  {
+    "id": "mines-ex-9", "title": "Minesweeper: Copper Net", "description": "Micro chip coordinate trace. Safe unblocked spaces found on logic.", "iframeUrl": "https://fontenele.github.io/minesweeper/", "category": "Puzzles", "iconName": "Bomb", "gradient": "from-teal-500 to-cyan-705", "rating": 4.7, "playCount": 140, "author": "Apex Mines"
+  },
+  {
+    "id": "mines-ex-10", "title": "Minesweeper: Ultimate Nova", "description": "Brutal grid sizes. 99 hidden mines. Pure intellectual sweep drills.", "iframeUrl": "https://fontenele.github.io/minesweeper/", "category": "Puzzles", "iconName": "Bomb", "gradient": "from-red-650 to-rose-600", "rating": 4.9, "playCount": 230, "author": "Apex Mines"
+  },
+  {
+    "id": "built-reac-s1", "title": "Reflex Trainer: Zone A", "description": "Simple clean flash triggers built to calibrate response limits.", "iframeUrl": "", "category": "Built-In", "iconName": "Zap", "gradient": "from-green-600 to-teal-500", "rating": 4.8, "playCount": 120, "isBuiltIn": true, "author": "Arcade Lab"
+  },
+  {
+    "id": "built-reac-s2", "title": "Reflex Trainer: Zone B", "description": "Short reaction trials with auditory alerts on correct clicks.", "iframeUrl": "", "category": "Built-In", "iconName": "Zap", "gradient": "from-blue-600 to-cyan-500", "rating": 4.7, "playCount": 95, "isBuiltIn": true, "author": "Arcade Lab"
+  },
+  {
+    "id": "built-reac-s3", "title": "Reflex Trainer: Zone C", "description": "Triple flashes trigger reflex clicks. Focus on orange alerts.", "iframeUrl": "", "category": "Built-In", "iconName": "Zap", "gradient": "from-purple-600 to-indigo-750", "rating": 4.8, "playCount": 140, "isBuiltIn": true, "author": "Arcade Lab"
+  },
+  {
+    "id": "built-reac-s4", "title": "Reflex Trainer: Extreme", "description": "Insanely fast neon flashing. Top esports speed calibrate setups.", "iframeUrl": "", "category": "Built-In", "iconName": "Zap", "gradient": "from-orange-500 to-red-600", "rating": 4.9, "playCount": 180, "isBuiltIn": true, "author": "Arcade Lab"
+  },
+  {
+    "id": "built-reac-s5", "title": "Reflex Trainer: Chill Mode", "description": "Casual visual tapping tests. Perfect to relax after hard class hours.", "iframeUrl": "", "category": "Built-In", "iconName": "Zap", "gradient": "from-teal-400 to-emerald-500", "rating": 4.6, "playCount": 75, "isBuiltIn": true, "author": "Arcade Lab"
+  },
+  {
+    "id": "built-mem-z1", "title": "Neural Memory: Grid A", "description": "Train spatial pattern retains with simple 3x3 electronic nodes.", "iframeUrl": "", "category": "Built-In", "iconName": "BrainCircuit", "gradient": "from-fuchsia-600 to-violet-850", "rating": 4.7, "playCount": 115, "isBuiltIn": true, "author": "Arcade Lab"
+  },
+  {
+    "id": "built-mem-z2", "title": "Neural Memory: Grid B", "description": "Auditory tone notes match each block node. Replicate sequences.", "iframeUrl": "", "category": "Built-In", "iconName": "BrainCircuit", "gradient": "from-indigo-600 to-blue-800", "rating": 4.8, "playCount": 90, "isBuiltIn": true, "author": "Arcade Lab"
+  },
+  {
+    "id": "built-mem-z3", "title": "Neural Memory: Grid C", "description": "High speed signal sequence tests. Calibrate short-term retention.", "iframeUrl": "", "category": "Built-In", "iconName": "BrainCircuit", "gradient": "from-purple-650 to-pink-500", "rating": 4.8, "playCount": 130, "isBuiltIn": true, "author": "Arcade Lab"
+  },
+  {
+    "id": "built-mem-z4", "title": "Neural Memory: Speed Run", "description": "Sequence patterns accelerate with zero delay spacing. Fast taps only.", "iframeUrl": "", "category": "Built-In", "iconName": "BrainCircuit", "gradient": "from-rose-500 to-red-600", "rating": 4.9, "playCount": 165, "isBuiltIn": true, "author": "Arcade Lab"
+  },
+  {
+    "id": "built-mem-z5", "title": "Neural Memory: God Brain", "description": "Brutal sequence requirements. Test patterns past round 15 matches.", "iframeUrl": "", "category": "Built-In", "iconName": "BrainCircuit", "gradient": "from-purple-900 to-stone-900", "rating": 4.9, "playCount": 210, "isBuiltIn": true, "author": "Arcade Lab"
+  },
+  {
+    "id": "puz-501", "title": "2048: Steel Grid", "description": "Classic merge setups framed in metal. Enjoy standard unblocked slides.", "iframeUrl": "https://gabrielecirulli.github.io/2048/", "category": "Puzzles", "iconName": "Grid", "gradient": "from-zinc-700 to-slate-900", "rating": 4.6, "playCount": 95, "author": "Merge Master"
+  },
+  {
+    "id": "puz-502", "title": "2048: Neon Star", "description": "Glowing retro style numbers combine. High-performance cabinet sweeps.", "iframeUrl": "https://gabrielecirulli.github.io/2048/", "category": "Puzzles", "iconName": "Grid", "gradient": "from-fuchsia-700 to-pink-500", "rating": 4.7, "playCount": 110, "author": "Merge Master"
+  },
+  {
+    "id": "puz-503", "title": "2048: Golden Dust", "description": "Vibrant sand grids slide numbers. Collect arcade credits easily.", "iframeUrl": "https://gabrielecirulli.github.io/2048/", "category": "Puzzles", "iconName": "Grid", "gradient": "from-yellow-500 to-orange-600", "rating": 4.6, "playCount": 115, "author": "Merge Master"
+  },
+  {
+    "id": "puz-504", "title": "2048: Deep Frost", "description": "Frozen logic setups. Slide panels cleanly across icy frameworks.", "iframeUrl": "https://gabrielecirulli.github.io/2048/", "category": "Puzzles", "iconName": "Grid", "gradient": "from-sky-400 to-cyan-600", "rating": 4.5, "playCount": 80, "author": "Merge Master"
+  },
+  {
+    "id": "puz-505", "title": "2048: Forest Merge", "description": "Mossy tree templates. Relaxing unblocked puzzles, regular pacing.", "iframeUrl": "https://gabrielecirulli.github.io/2048/", "category": "Puzzles", "iconName": "Grid", "gradient": "from-green-600 to-emerald-700", "rating": 4.5, "playCount": 90, "author": "Merge Master"
+  },
+  {
+    "id": "puz-506", "title": "2048: Rose Petals", "description": "Beautiful twilight hues. Slide squares carefully to trigger 2048 goals.", "iframeUrl": "https://gabrielecirulli.github.io/2048/", "category": "Puzzles", "iconName": "Grid", "gradient": "from-pink-500 to-rose-600", "rating": 4.7, "playCount": 125, "author": "Merge Master"
+  },
+  {
+    "id": "puz-507", "title": "2048: Charcoal", "description": "Dark aesthetic panels. Safe numbers fitting with perfect keyboard traces.", "iframeUrl": "https://gabrielecirulli.github.io/2048/", "category": "Puzzles", "iconName": "Grid", "gradient": "from-stone-800 to-zinc-950", "rating": 4.4, "playCount": 70, "author": "Merge Master"
+  },
+  {
+    "id": "puz-508", "title": "2048: Stellar Void", "description": "Asteroid coordinate loops. Fuse elements to cross cosmic goals.", "iframeUrl": "https://gabrielecirulli.github.io/2048/", "category": "Puzzles", "iconName": "Grid", "gradient": "from-indigo-950 to-purple-900", "rating": 4.6, "playCount": 100, "author": "Merge Master"
+  },
+  {
+    "id": "puz-509", "title": "2048: Emerald Hills", "description": "Green landscape overlays. Fuse coordinate boards peacefully on grids.", "iframeUrl": "https://gabrielecirulli.github.io/2048/", "category": "Puzzles", "iconName": "Grid", "gradient": "from-emerald-500 to-teal-600", "rating": 4.7, "playCount": 115, "author": "Merge Master"
+  },
+  {
+    "id": "puz-510", "title": "2048: Inferno", "description": "Ultimate volcanic templates. Instant keys slide numbers rapidly.", "iframeUrl": "https://gabrielecirulli.github.io/2048/", "category": "Puzzles", "iconName": "Grid", "gradient": "from-red-600 to-orange-500", "rating": 4.8, "playCount": 160, "author": "Merge Master"
+  },
+  {
+    "id": "act-601", "title": "Hextris: Sector Teal", "description": "Rotate multi angle prisms smoothly under cyan backdrops.", "iframeUrl": "https://hextris.github.io/hextris/", "category": "Action", "iconName": "Hexagon", "gradient": "from-teal-400 to-cyan-600", "rating": 4.6, "playCount": 100, "author": "Hexa Labs"
+  },
+  {
+    "id": "act-602", "title": "Hextris: Sector Purple", "description": "High stack speeds trigger rapid color fits on edge boxes.", "iframeUrl": "https://hextris.github.io/hextris/", "category": "Action", "iconName": "Hexagon", "gradient": "from-purple-650 to-pink-550", "rating": 4.5, "playCount": 80, "author": "Hexa Labs"
+  },
+  {
+    "id": "act-603", "title": "Hextris: Sector Orange", "description": "Drop orange lines cleanly. Keep grid lines unblocked to maintain scores.", "iframeUrl": "https://hextris.github.io/hextris/", "category": "Action", "iconName": "Hexagon", "gradient": "from-orange-500 to-yellow-600", "rating": 4.7, "playCount": 130, "author": "Hexa Labs"
+  },
+  {
+    "id": "act-604", "title": "Hextris: Sector Jade", "description": "Forest green color plates stack peacefully inside sector Jade.", "iframeUrl": "https://hextris.github.io/hextris/", "category": "Action", "iconName": "Hexagon", "gradient": "from-green-600 to-emerald-700", "rating": 4.6, "playCount": 95, "author": "Hexa Labs"
+  },
+  {
+    "id": "act-605", "title": "Hextris: Sector Slate", "description": "Clean carbon setups. Spot incoming colors easily on dark boards.", "iframeUrl": "https://hextris.github.io/hextris/", "category": "Action", "iconName": "Hexagon", "gradient": "from-zinc-800 to-slate-950", "rating": 4.5, "playCount": 65, "author": "Hexa Labs"
+  },
+  {
+    "id": "act-606", "title": "Hextris: Sector Neon", "description": "Fluorescent glow blocks stack under intense visual sweeps.", "iframeUrl": "https://hextris.github.io/hextris/", "category": "Action", "iconName": "Hexagon", "gradient": "from-pink-500 to-violet-600", "rating": 4.7, "playCount": 145, "author": "Hexa Labs"
+  },
+  {
+    "id": "act-607", "title": "Hextris: Sector Amber", "description": "Earn massive points inside level amber. Fast key controls active.", "iframeUrl": "https://hextris.github.io/hextris/", "category": "Action", "iconName": "Hexagon", "gradient": "from-amber-400 to-orange-600", "rating": 4.8, "playCount": 175, "author": "Hexa Labs"
+  },
+  {
+    "id": "act-608", "title": "Hextris: Sector Fire", "description": "Molten colors stacking speeds. Sweep side block lines quickly.", "iframeUrl": "https://hextris.github.io/hextris/", "category": "Action", "iconName": "Hexagon", "gradient": "from-red-600 to-orange-500", "rating": 4.6, "playCount": 110, "author": "Hexa Labs"
+  },
+  {
+    "id": "act-609", "title": "Hextris: Sector Alloy", "description": "Cold steel grid boundaries. Clean inputs capture arrow coordinates.", "iframeUrl": "https://hextris.github.io/hextris/", "category": "Action", "iconName": "Hexagon", "gradient": "from-slate-750 to-zinc-900", "rating": 4.5, "playCount": 75, "author": "Hexa Labs"
+  },
+  {
+    "id": "act-610", "title": "Hextris: Ultimate Void", "description": "Intense cosmic speed test. Stack colors dynamically to escape limits.", "iframeUrl": "https://hextris.github.io/hextris/", "category": "Action", "iconName": "Hexagon", "gradient": "from-rose-650 to-indigo-950", "rating": 4.9, "playCount": 210, "author": "Hexa Labs"
+  },
+  {
+    "id": "snk-v-1", "title": "Modern Snake: Neon Blue", "description": "Classic safe trails. Guide the visual reptile cleanly over blue nets.", "iframeUrl": "https://mczak.com/code/snake/", "category": "Retro", "iconName": "TrendingUp", "gradient": "from-sky-500 to-blue-700", "rating": 4.7, "playCount": 140, "author": "Arcade Reptiles"
+  },
+  {
+    "id": "snk-v-2", "title": "Modern Snake: Neon Purple", "description": "Snappy keyboard trace response with customized score multipliers.", "iframeUrl": "https://mczak.com/code/snake/", "category": "Retro", "iconName": "TrendingUp", "gradient": "from-purple-700 to-fuchsia-600", "rating": 4.7, "playCount": 115, "author": "Arcade Reptiles"
+  },
+  {
+    "id": "snk-v-3", "title": "Modern Snake: Neon Amber", "description": "molten fruit items spawn dynamically across high contrast fields.", "iframeUrl": "https://mczak.com/code/snake/", "category": "Retro", "iconName": "TrendingUp", "gradient": "from-yellow-500 to-orange-600", "rating": 4.8, "playCount": 170, "author": "Arcade Reptiles"
+  },
+  {
+    "id": "snk-v-4", "title": "Modern Snake: Neon Frost", "description": "Cool logic lines. Control the crawling sequence cleanly.", "iframeUrl": "https://mczak.com/code/snake/", "category": "Retro", "iconName": "TrendingUp", "gradient": "from-cyan-400 to-teal-555", "rating": 4.5, "playCount": 90, "author": "Arcade Reptiles"
+  },
+  {
+    "id": "snk-v-5", "title": "Modern Snake: Neon Forest", "description": "Soothing eco colors. Enjoy pure retro setups during chill hours.", "iframeUrl": "https://mczak.com/code/snake/", "category": "Retro", "iconName": "TrendingUp", "gradient": "from-green-600 to-emerald-700", "rating": 4.6, "playCount": 105, "author": "Arcade Reptiles"
+  },
+  {
+    "id": "snk-v-6", "title": "Modern Snake: Neon Pink", "description": "Bright fluorescent reptile trails. Chase apples with style panels.", "iframeUrl": "https://mczak.com/code/snake/", "category": "Retro", "iconName": "TrendingUp", "gradient": "from-pink-500 to-rose-600", "rating": 4.7, "playCount": 130, "author": "Arcade Reptiles"
+  },
+  {
+    "id": "snk-v-7", "title": "Modern Snake: Neon Steel", "description": "Hard pipe structures. Avoid rapid collisions with fast screen taps.", "iframeUrl": "https://mczak.com/code/snake/", "category": "Retro", "iconName": "TrendingUp", "gradient": "from-stone-700 to-zinc-900", "rating": 4.5, "playCount": 75, "author": "Arcade Reptiles"
+  },
+  {
+    "id": "snk-v-8", "title": "Modern Snake: Neon Orion", "description": "Starry sky backdrops. Traverse cosmic portals seeking key point items.", "iframeUrl": "https://mczak.com/code/snake/", "category": "Retro", "iconName": "TrendingUp", "gradient": "from-purple-900 to-indigo-950", "rating": 4.7, "playCount": 150, "author": "Arcade Reptiles"
+  },
+  {
+    "id": "snk-v-9", "title": "Modern Snake: Neon Trace", "description": "Electronic trace setups. Direct snake pathways reliably on chips.", "iframeUrl": "https://mczak.com/code/snake/", "category": "Retro", "iconName": "TrendingUp", "gradient": "from-teal-400 to-cyan-600", "rating": 4.7, "playCount": 135, "author": "Arcade Reptiles"
+  },
+  {
+    "id": "snk-v-10", "title": "Modern Snake: Neon Extreme", "description": "Extreme reflex crawl trials. Requires direct arrow key alignments.", "iframeUrl": "https://mczak.com/code/snake/", "category": "Retro", "iconName": "TrendingUp", "gradient": "from-red-650 to-orange-550", "rating": 4.9, "playCount": 240, "author": "Arcade Reptiles"
   }
 ]
