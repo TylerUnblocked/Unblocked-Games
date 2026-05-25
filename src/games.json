@@ -1,0 +1,93 @@
+[
+  {
+    "id": "two-zero-four-eight",
+    "title": "2048",
+    "description": "The viral number-merging puzzle. Combine matching tiles recursively with arrow keys to reach the ultimate 2048 tile!",
+    "iframeUrl": "https://gabrielecirulli.github.io/2048/",
+    "category": "Puzzles",
+    "iconName": "Grid",
+    "gradient": "from-amber-400 to-orange-500",
+    "rating": 4.8,
+    "playCount": 2420,
+    "author": "Gabriele Cirulli",
+    "isBuiltIn": false
+  },
+  {
+    "id": "hextris",
+    "title": "Hextris",
+    "description": "Fast-paced hexagonal puzzle game. Rotate the hexagon block grid to align colors and clear rows before tiles stack and overflow.",
+    "iframeUrl": "https://hextris.github.io/hextris/",
+    "category": "Action",
+    "iconName": "Hexagon",
+    "gradient": "from-blue-500 to-indigo-600",
+    "rating": 4.6,
+    "playCount": 1850,
+    "author": "Hextris Team",
+    "isBuiltIn": false
+  },
+  {
+    "id": "tower-building",
+    "title": "Tower Building",
+    "description": "Test your precision timing! Drop moving high-rise blocks perfectly on top of each other to erect the tallest, sturdiest skyscraper.",
+    "iframeUrl": "https://clement-madiot.github.io/tower-building/",
+    "category": "Precision",
+    "iconName": "Layers",
+    "gradient": "from-teal-400 to-emerald-600",
+    "rating": 4.5,
+    "playCount": 1620,
+    "author": "Clement Madiot",
+    "isBuiltIn": false
+  },
+  {
+    "id": "snake-arcade",
+    "title": "Retro Snake",
+    "description": "Eat neon apples to grow your snake sequence while carefully avoiding crashing into walls or your own expanding tail segments.",
+    "iframeUrl": "https://mczak.com/code/snake/",
+    "category": "Retro",
+    "iconName": "TrendingUp",
+    "gradient": "from-green-400 to-emerald-600",
+    "rating": 4.7,
+    "playCount": 2100,
+    "author": "Mczak",
+    "isBuiltIn": false
+  },
+  {
+    "id": "floppy-bird",
+    "title": "Floppy Bird",
+    "description": "An addictive, high-difficulty flight simulator. Guide the feathered flyer safely through narrow setups of green pipelines.",
+    "iframeUrl": "https://nebez.github.io/floppybird/",
+    "category": "Action",
+    "iconName": "Bird",
+    "gradient": "from-sky-400 to-dodger-blue bg-gradient-to-br from-cyan-400 to-blue-500",
+    "rating": 4.4,
+    "playCount": 1940,
+    "author": "Nebez",
+    "isBuiltIn": false
+  },
+  {
+    "id": "built-in-reaction",
+    "title": "Reaction Impulse (Built-In)",
+    "description": "A local high-performance visual speed tester. Slam the panel the exact millisecond the card flashes from amber to neon-green!",
+    "iframeUrl": "",
+    "category": "Built-In",
+    "iconName": "Zap",
+    "gradient": "from-purple-500 to-pink-500",
+    "rating": 4.9,
+    "playCount": 890,
+    "author": "Arcade Studio",
+    "isBuiltIn": true
+  },
+  {
+    "id": "built-in-memory",
+    "title": "Retro Memory Grid (Built-In)",
+    "description": "Train your neural receptors! Replicate the exact visual audio pattern sequence displayed on the layout matrix screen as it speeds up.",
+    "iframeUrl": "",
+    "category": "Built-In",
+    "iconName": "BrainCircuit",
+    "gradient": "from-fuchsia-500 to-violet-700",
+    "rating": 4.8,
+    "playCount": 740,
+    "author": "Arcade Studio",
+    "isBuiltIn": true
+  }
+]

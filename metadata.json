@@ -1,0 +1,6 @@
+{
+  "name": "Unblocked Games Hub",
+  "description": "A high-performance personal arcade of free, safe, and exciting browser games, loadable via secure iframe configurations with local favorites and custom game support.",
+  "requestFramePermissions": ["fullscreen"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
